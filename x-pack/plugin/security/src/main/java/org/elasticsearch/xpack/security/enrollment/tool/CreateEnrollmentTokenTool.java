@@ -26,6 +26,9 @@ import java.net.URL;
 import java.util.List;
 import java.util.function.Function;
 
+/**
+ *  创建token -- kibana / node
+ */
 public class CreateEnrollmentTokenTool extends BaseRunAsSuperuserCommand {
 
     private final OptionSpec<String> scope;

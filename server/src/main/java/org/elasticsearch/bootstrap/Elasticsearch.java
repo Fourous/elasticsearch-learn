@@ -31,7 +31,7 @@ import java.util.Arrays;
 import java.util.Locale;
 
 /**
- * This class starts elasticsearch.
+ * ES启动类
  */
 class Elasticsearch extends EnvironmentAwareCommand {
 
